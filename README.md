@@ -1,6 +1,9 @@
 # DevCamper API
 
-> Backend API for DevCamper application, which is a bootcamp directory website
+> Backend API for Bootcamp application, which is a bootcamp directory website
+
+## APIs
+Check dc.postman_collection.json in root directory.
 
 ## Usage
 Rename "config/config.env.env" to "config/config.env" and update the values/settings to your own
